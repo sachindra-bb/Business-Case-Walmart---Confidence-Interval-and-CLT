@@ -7,9 +7,9 @@ To help Walmart aims to determine if female customers spend more than male custo
 https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/293/original/walmart_data.csv?1641285094
 
 **Tools/Libraries**
-pandas, matplotlib, seaborn
+pandas, matplotlib, seaborn, numpy
 
-**Key Findings/Visualizations**
+**Key Findings**
 1. Gender-Based Spending
 Males: Higher average Black Friday spending (CI: 9422.02–9453.03)
 Females: Lower (CI: 8709.21–8759.92)
@@ -25,7 +25,7 @@ Insight: Marital status has minimal effect on spending.
 Trends likely hold for Walmart’s full customer base (50M males, 50M females).
 Focus marketing on gender and age for effective strategy.
 
-**Business Insights/Recommendations**
+**Recommendations**
 1. Create Special Offers for Men
 Men spend more—offer deals on electronics, tools, and gadgets that appeal to them.
 2. Target Older Customers (51+)
