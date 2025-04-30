@@ -1,6 +1,7 @@
 ▶️ [Click here to view the full analysis in Google Colab](https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/293/original/walmart_data.csv?1641285094)
 
 **Problem Statement**
+To help Walmart aims to determine if female customers spend more than male customers during Black Friday, using purchase data to guide targeted marketing and business strategies.
 
 **Dataset Used**
 https://d2beiqkhq929f0.cloudfront.net/public_assets/assets/000/001/293/original/walmart_data.csv?1641285094
